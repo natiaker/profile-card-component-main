@@ -14,8 +14,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://natiaker.github.io/QR-code-component/)
+- Solution URL: [Solution URL](https://github.com/natiaker/profile-card-component-main.gitad)
+- Live Site URL: [Live site URL](https://natiaker.github.io/profile-card-component-main/)
 
 ### Built with
 
