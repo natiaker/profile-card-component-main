@@ -10,11 +10,11 @@
 
 ### Screenshot
 
-![](design/desktop-design.jpg)
+![](design/design-desktop.PNG)
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/natiaker/profile-card-component-main.gitad)
+- Solution URL: [Solution URL](https://github.com/natiaker/profile-card-component-main.git)
 - Live Site URL: [Live site URL](https://natiaker.github.io/profile-card-component-main/)
 
 ### Built with
